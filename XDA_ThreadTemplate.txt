@@ -1,0 +1,46 @@
+[CENTER][IMG="MoonOSX"]https://raw.githubusercontent.com/MoonOSX/MoonOSXStuff/master/img/moonosx-banner-XDA.png[/IMG]
+
+[CODE] /*
+ * I'm not responsible for bricked devices, dead SD cards, thermonuclear war, or you getting fired because the alarm app failed (like it did for me...).
+ * Please do some research if you have any concerns about features included in the products you find here before flashing it!
+ * YOU are choosing to make these modifications, and if you point the finger at me for messing up your device, I will laugh at you.
+ * Your warranty will be void if you tamper with any part of your device / software.
+ * Same statement for XDA.
+ */[/CODE]
+
+[COLOR="Navy"][SIZE="5"][B][U]About:[/U][/B][/SIZE][/COLOR]
+Our purpose is to get the best from the Android experience, and give you full control! Your system, your rules.
+
+[COLOR="Navy"][SIZE="5"][B][U]What's working:[/U][/B][/SIZE][/COLOR]
+Boots
+RIL (Calls, SMS, Data)
+Fingerprint
+Wi-Fi
+Bluetooth
+Camera
+Audio
+Flash
+Maybe more I haven't tested everything, let me know
+
+[COLOR="Navy"][SIZE="5"][B][U]Known issues:[/U][/B][/SIZE][/COLOR]
+You tell me.
+
+[COLOR="Navy"][SIZE="5"][B][U]Instructions:[/U][/B][/SIZE][/COLOR]
+Download the latest build
+Reboot to recovery
+Flash the latest build
+Reboot
+
+[COLOR="Navy"][SIZE="5"][B][U]Special Thanks:[/U][/B][/SIZE][/COLOR]
+[URL="https://github.com/LineageOS"]LineageOS[/URL]
+
+[COLOR="Navy"][SIZE="5"][B][U]Downloads:[/U][/B][/SIZE][/COLOR]
+[B][SIZE="4"][URL="https://sourceforge.net/projects/moonosx/files/"]* Download MoonOSX *[/URL][/B][/SIZE]
+
+[I][B][SIZE="3"][URL="https://github.com/MoonOSX"]* Github Source *[/URL]
+[URL="https://t.me/moonosxnews"]* Telegram News *[/URL]
+[URL="https://t.me/moonosx"]* Telegram Chat *[/URL][/SIZE][/B][/I][/CENTER]
+
+ROM OS Version: 9.x Pie
+ROM Kernel: Linux 4.x
+ROM Firmware Required: TWRP, Unlocked bootloader
